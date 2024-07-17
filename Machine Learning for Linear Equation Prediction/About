@@ -1,0 +1,12 @@
+Machine Learning for Linear Equation Prediction
+
+Description:- You are tasked with developing a machine learning model that can predict linear equations based on a given dataset. The dataset consists of pairs of input variables and 
+corresponding output values, representing different linear equations. Your goal is to train a model that can accurately predict the coefficients of a linear equation given new input values.
+
+
+Requirements:-
+Dataset Generation:-
+• Generate a dataset of multiple linear equations, each represented by a pair of input variables and the corresponding output value.
+• Ensure that the dataset includes a variety of linear equations with different slopes and intercepts.
+• You can use a random generator or predefined equations to create the dataset.Data Pre-processing:
+• Perform any necessary pre-processing steps on the dataset, such as data normalization or standardization, to ensure better model performance.
