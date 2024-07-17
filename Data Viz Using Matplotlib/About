@@ -1,0 +1,22 @@
+1. Write a Python code to Create a figure with 2x2 subplots.
+
+2. In the first subplot (top-left), plot a bar chart using the following data:-
+Categories:- ['Category A', 'Category B', 'Category C', 'Category D', 'Category E']
+Values:-     [23, 56, 41, 62, 19]
+
+3. In the second subplot (top-right), plot a histogram using the following data:-
+Data:- [12, 17, 21, 18, 14, 13, 16, 9, 12, 15, 19, 11, 14, 16, 20, 18, 15, 13, 16, 11, 10]
+
+4. In the third subplot (bottom-left), plot a pie chart using the following data:-
+Labels:- ['Apple', 'Banana', 'Orange', 'Mango']
+Sizes:- [30, 25, 15, 30]
+
+5. In the fourth subplot (bottom-right), plot a scatter plot using the following data:-
+X values:- [1, 2, 3, 4, 5]
+Y values:- [2, 5, 3, 6, 4]
+
+6. Add appropriate titles and labels to each subplot.
+
+7. Adjust the spacing between subplots to avoid overlapping.
+
+Reference – https://matplotlib.org/stable/tutorials/introductory/pyplot.html
